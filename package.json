@@ -1,0 +1,17 @@
+{
+  "name": "js-diff-benchmarks",
+  "packageManager": "yarn@3.1.0",
+  "scripts": {
+    "start": "./bench.js"
+  },
+  "dependencies": {
+    "@n1ru4l/json-patch-plus": "^0.1.4",
+    "benchmark": "^2.1.4",
+    "deep-diff": "^1.0.2",
+    "deep-object-diff": "^1.1.0",
+    "diff": "^5.0.0",
+    "jsondiffpatch": "^0.4.1",
+    "microdiff": "^1.1.0",
+    "symmetry": "^0.6.0"
+  }
+}
